@@ -1,0 +1,2 @@
+TODO: Create folders for pages,images,css and js
+TODO:
